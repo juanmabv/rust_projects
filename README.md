@@ -1,2 +1,1 @@
-#Rust Projects repo
-by juanmabv
+# rust_projects
